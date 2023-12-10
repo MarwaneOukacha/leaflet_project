@@ -1,0 +1,30 @@
+#mapp{
+    border-radius: 7px;
+    height: 100%;
+    width: 100vw;
+}
+
+html,body{
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.boX{
+    width: 300px;margin-left: 20px;background-color:rgb(212, 217, 217);margin-right: 20px;
+
+}
+.t{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.englober{
+    height: 100%;
+    display: flex;
+}
+#mapp{
+    margin-left: 7px;
+    margin-right: 7px;
+    width: 70%;
+    height: 92%;
+}
